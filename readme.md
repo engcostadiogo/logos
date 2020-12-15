@@ -3,6 +3,9 @@
 Os logos do Programa de pós-graduação em Sistemas Mecatrônicos ( PPMEC ) e da Faculdade do Gama ( FGA ) não são oficiais e foram desenvolvidos por Diogo Costa ( https://engcostadiogo.github.io/ ).
 
 <img src="https://github.com/engcostadiogo/logos/blob/main/fga_as_comp_cor.svg" width="300" />
+<img src="https://github.com/engcostadiogo/logos/blob/main/fga_as_bas_cor.svg" width="120" />
+<img src="https://github.com/engcostadiogo/logos/blob/main/fga_as_vert_cor.svg" width="100" />
+<img src="https://github.com/engcostadiogo/logos/blob/main/ppmec.svg" width="120" />
 
 ![Logo FGA completo](https://github.com/engcostadiogo/logos/blob/main/fga_as_comp_cor.svg)
 
