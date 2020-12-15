@@ -4,23 +4,23 @@ Os logos do Programa de pós-graduação em Sistemas Mecatrônicos ( PPMEC ) e d
 
 Logo FGA completo
 <br>
-<img src="https://github.com/engcostadiogo/logos/blob/main/fga_as_comp_cor.svg" width="290" />
+<img src="https://github.com/engcostadiogo/logos/blob/main/FGA/fga_as_comp_cor.svg" width="290" />
 <br>
 Logo FGA Básico Horizontal
 <br>
-<img src="https://github.com/engcostadiogo/logos/blob/main/fga_as_bas_cor.svg" width="120" />
+<img src="https://github.com/engcostadiogo/logos/blob/main/FGA/fga_as_bas_cor.svg" width="120" />
 <br>
 Logo FGA Básico Vertical
 <br>
-<img src="https://github.com/engcostadiogo/logos/blob/main/fga_as_vert_cor.svg" width="70" />
+<img src="https://github.com/engcostadiogo/logos/blob/main/FGA/fga_as_vert_cor.svg" width="70" />
 <br>
 Logo PPMEC
 <br>
-<img src="https://github.com/engcostadiogo/logos/blob/main/ppmec.svg" width="200" />
+<img src="https://github.com/engcostadiogo/logos/blob/main/PPMEC/ppmec.svg" width="200" />
 <br>
 
 O logo do PPGEB está em formato vetorial obitido por conversão do .PNG disponível pelo programa.
 
 Logo PPGEB
 <br>
-<img src="https://github.com/engcostadiogo/logos/blob/main/ppgeb.png" width="200" />
+<img src="https://github.com/engcostadiogo/logos/blob/main/PPGEB/ppgeb.png" width="200" />
