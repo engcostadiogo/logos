@@ -8,11 +8,11 @@ Os logos do Programa de pós-graduação em Sistemas Mecatrônicos ( PPMEC ) e d
 <br>
 ##Logo FGA Básico Horizontal
 <br>
-<img src="https://github.com/engcostadiogo/logos/blob/main/fga_as_bas_cor.svg" width="120" />
+<img src="https://github.com/engcostadiogo/logos/blob/main/fga_as_bas_cor.svg" width="100" />
 <br>
 ##Logo FGA Básico Vertical
 <br>
-<img src="https://github.com/engcostadiogo/logos/blob/main/fga_as_vert_cor.svg" width="80" />
+<img src="https://github.com/engcostadiogo/logos/blob/main/fga_as_vert_cor.svg" width="50" />
 <br>
 ##Logo PPMEC
 <br>
